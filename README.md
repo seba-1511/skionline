@@ -1,4 +1,0 @@
-skionline
-=========
-
-Skionline Theme
